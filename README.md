@@ -30,7 +30,7 @@
 
 - 🚩 Google for Developers AI/ML Virtual Intern
 - 👑 Hackoverflow & Vedic Vision Hackathon participant
-- 🏅 Consistent top coder on [LeetCode](https://leetcode.com/u/yaswanth_setty), [CodeChef](https://www.codechef.com/users/yaswanth_setty), [HackerRank](https://www.hackerrank.com/profile/gyaswan[...]  
+- 🏅 Consistent top coder on [LeetCode](https://leetcode.com/u/yaswanth_setty), [CodeChef](https://www.codechef.com/users/yaswanth_setty), [HackerRank](https://www.hackerrank.com/profile/gyaswanthsetty)
 
 ---
 
