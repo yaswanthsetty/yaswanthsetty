@@ -1,4 +1,4 @@
-# Hey, I’m Gubbala Yaswanth Setty! 👋
+# Hey, I'm Gubbala Yaswanth Setty! 👋
 
 > _"Turning ideas into code and coffee into solutions."_
 
@@ -17,6 +17,7 @@
 
 | Project | What it Does | Tech Stack |  
 |---------|--------------|------------|  
+| [Legal Metrology OCR Pipeline](https://github.com/yaswanthsetty/legal-metrology-ocr-pipeline) | 🔍 Advanced OCR pipeline for Legal Metrology compliance checking with AI-powered text extraction | Python, AI/ML, OCR |  
 | [Farmer Fertilizer Optimizer](https://github.com/yaswanthsetty/farmer_fertilizer_optimizer) | 🌱 Recommends eco-friendly fertilizer based on soil data | Python, ML, Flask |  
 | [FakeProfileDetector](https://github.com/yaswanthsetty/FakeProfileDetector) | 🔍 Detects fake online profiles using ML | Jupyter, Python |  
 | [Life Transformation Roadmap](https://github.com/yaswanthsetty/life-transformation-roadmap) | 📈 Guides users to achieve life goals | JavaScript, HTML, CSS |  
@@ -29,7 +30,7 @@
 
 - 🚩 Google for Developers AI/ML Virtual Intern
 - 👑 Hackoverflow & Vedic Vision Hackathon participant
-- 🏅 Consistent top coder on [LeetCode](https://leetcode.com/u/yaswanth_setty), [CodeChef](https://www.codechef.com/users/yaswanth_setty), [HackerRank](https://www.hackerrank.com/profile/gyaswanthsetty)
+- 🏅 Consistent top coder on [LeetCode](https://leetcode.com/u/yaswanth_setty), [CodeChef](https://www.codechef.com/users/yaswanth_setty), [HackerRank](https://www.hackerrank.com/profile/gyaswan[...]  
 
 ---
 
@@ -45,7 +46,7 @@
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 🤝 Let's Collaborate!
 
 - 💬 DM for open-source collabs, hackathons, or just to geek out!
 - 👔 [LinkedIn](https://www.linkedin.com/in/yaswanth-setty) | 📧 gyaswanthsetty@gmail.com
@@ -56,7 +57,7 @@
 
 - 📸 I capture code and landscapes alike!
 - ✈️ Dreaming up my next adventure, in tech or travel
-- 🎯 Motto: “Learn it. Build it. Share it.”
+- 🎯 Motto: "Learn it. Build it. Share it."
 
 ---
 
@@ -72,4 +73,4 @@
 
 ---
 
-> _Let’s turn ideas into reality, one commit at a time! 🚀_
+> _Let's turn ideas into reality, one commit at a time! 🚀_
